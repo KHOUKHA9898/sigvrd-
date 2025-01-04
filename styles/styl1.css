@@ -1,0 +1,51 @@
+body {
+    background-color: azure;
+}
+div {
+    border: 6px double rgb(108, 108, 57);
+    padding: 40px ;
+    margin: 20px;
+    background-color: rgb(223, 220, 216);
+}
+p {
+    color: rgb(73, 112, 101);
+    font-family: comic;
+    font-size: 150% ;
+    text-align: center;
+
+}
+h1 {
+    color: rgb(12, 53, 28);
+    font-family: castellar ;
+    font-size: 180%;
+    text-shadow: 2px 2px green ;
+    text-align: center;
+
+}
+h5 {
+    color: brown;
+    font-family: comic;
+    font-size: 150%;
+}
+h2 {
+    color: brown;
+    font-family: comic;
+    font-size: 150%;
+}
+h3 {
+    color: rgb(129, 80, 80);
+    font-family: comic;
+    font-size: 150%;
+
+}
+li {
+    color: rgb(97, 97, 145);
+    font-family: comic;
+
+}
+table th {
+    border: 2px solid black;
+}
+th:hover {
+    color: rgb(85, 24, 215);
+}

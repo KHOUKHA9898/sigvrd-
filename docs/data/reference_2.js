@@ -1,0 +1,1 @@
+var json_reference_2 = {"type":"FeatureCollection","name":"reference_2","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","nom":"GARE ROUTIERE","X":409638.856,"Y":194663.22,"INFO":"POINT DE DEPART"},"geometry":{"type":"Point","coordinates":[-6.358526125881357,32.343514572103409]}}]}
